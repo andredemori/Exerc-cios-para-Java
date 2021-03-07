@@ -1,0 +1,43 @@
+1-) Programa para trabalhar com matrizes, onde teremos as seguintes operações: 
+  - soma entre matrizes 
+  - multiplicação entre matrizes 
+  - subtração entre matrizes 
+  - Multiplicação por escalar 
+
+2-) Programa para trabalhar com vetor de inteiros, onde teremos as seguintes operações: 
+  - Somatório dos elementos 
+  - Maior elemento 
+  - Menor elemento 
+  - Média d
+
+3-) Programa para trabalhar com conjunto de numeros reais, onde teremos as seguintes operações: 
+  - Uniao de conjuntos 
+  - Interseccao de Conjuntos
+  - Pertence
+  - Subtracao de conjuntos
+  - Contem
+  - Esta Contido 
+  - Inserir elemento
+  - Remover elemento
+
+4-) Faça um programa para simular uma conta no banco, o programa dever ter as seguintes operações: 
+ 
+   1- Abrir conta 
+   2- Mostrar Saldo 
+   3- Realizar Deposito 
+   4- Realizar Retirada 
+   5- Pagar conta 
+   6- Extrato 
+   7- Listar as movimentações de Deposito (totalizando no final) 
+   8- Listar as movimentações de Retirada (totalizando no final) 
+   9- Listar as movimentações de Pagamento (totalizando no final) 
+   10- Listar as movimentações de Pagamento (totalizando no final) de um motivo x 
+ 
+Obs: Ao abrir uma conta o usuário deve informar o valor do saldo inicial 
+sempre que o usuario realizar uma movimentacao (Deposito, Retirada, Pagar conta), deverá ser informado o valor e 
+no caso de pagamento o motivo (luz, agua, etc). 
+
+5-)Faça um programa para simular um caixa de supermercado. 
+   Primeiro o programa deve ler a tabela de precos (nome, codigo e preco) de todos os produtos (no maximo 100).
+   Depois o programa entra em um loop, para ler as compras de um cliente. 
+   o programa deve listar as compras, e mostrar o valor a ser pago.
